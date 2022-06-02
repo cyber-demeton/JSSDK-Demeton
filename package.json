@@ -39,7 +39,7 @@
         "jssha": "*",
         "keccak": "^1.0.2",
         "promise": "^8.0.1",
-        "protobufjs": "^6.8.6",
+        "protobufjs": "^6.11.3",
         "remove-node-modules": "^1.7.2",
         "ripemd160": "^2.0.1",
         "safe-buffer": "^5.1.1",
